@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "day1_sonar_sweep",
+]
+
