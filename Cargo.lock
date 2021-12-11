@@ -9,3 +9,11 @@ version = "0.1.0"
 [[package]]
 name = "day1_sonar_sweep"
 version = "0.1.0"
+
+[[package]]
+name = "day2_dive"
+version = "0.1.0"
+
+[[package]]
+name = "day2_dive_aim"
+version = "0.1.0"
