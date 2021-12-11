@@ -2,5 +2,6 @@
 
 members = [
     "day1_sonar_sweep",
+    "day1_sliding_window"
 ]
 
