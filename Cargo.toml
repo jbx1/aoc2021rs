@@ -4,6 +4,8 @@ members = [
     "day1_sonar_sweep",
     "day1_sliding_window",
     "day2_dive",
-    "day2_dive_aim"
+    "day2_dive_aim",
+    "day3_binary_diagnostic",
+    "day3_life_support"
 ]
 
